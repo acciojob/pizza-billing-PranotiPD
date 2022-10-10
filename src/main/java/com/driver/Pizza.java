@@ -65,10 +65,10 @@ public class Pizza {
         // your code goes here
         getBill = true;
         if(isVeg){
-            System.out.println("Base Price of The Pizza: 300");
+            System.out.println("Base Price Of The Pizza: 300");
         }
         else{
-            System.out.println("Base Price of The Pizza: 400");
+            System.out.println("Base Price Of The Pizza: 400");
         }
         if(extraCheese){
             System.out.println("Extra Cheese Added: 80");
