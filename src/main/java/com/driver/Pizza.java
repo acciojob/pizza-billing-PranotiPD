@@ -85,7 +85,7 @@ public class Pizza {
             System.out.println("Paperbag Added: 20");
         }
 
-        bill = "Total price: "+ String.valueOf(getPrice())+"\n";
+        bill = "Total Price: "+ String.valueOf(getPrice())+"\n";
         return this.bill;
     }
 }
